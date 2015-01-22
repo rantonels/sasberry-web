@@ -111,7 +111,7 @@ di ateneo con avahi</p>
 		<div class="tab-pane" id="sasha">
 		<h2>sasha-assout.jpg</h2>
 		<div class="row">
-			<img class="img-responsive center-block" src="sasha-assout-jpg">
+			<img class="img-responsive center-block" src="sasha-assout.jpg">
 		</div>
 	</div>
 </div> 
