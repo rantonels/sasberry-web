@@ -91,7 +91,7 @@ di ateneo con avahi</p>
 		</div>
 
 
-		<div class="col-lg-7" role="navigation">
+<!--		<div class="col-lg-7" role="navigation">
 			 <ul id="tabs" class="nav nav-tabs" data-tabs="tabs">
 				<li class="active"><a href="#pinoir" data-toggle="tab">PiNoIR</a></li>
 				<li><a href="#sasha" data-toggle="tab">Sasha</a></li>
@@ -119,7 +119,7 @@ di ateneo con avahi</p>
 			
         
         </div>
-    </div>
+    </div>--!>
 
 	<!-- <div class="row">
 
